@@ -24,6 +24,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
+      "sqlDebugging": true,
       "dotnetRunMessages": "true",
       "applicationUrl": "http://localhost:5000"
     },
